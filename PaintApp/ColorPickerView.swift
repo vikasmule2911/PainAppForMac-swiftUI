@@ -23,6 +23,7 @@ struct ColorPickerView: View {
                 Text("Vikas Mule")
             }
         }
+        .frame(maxWidth: 400, maxHeight: 20)
         .padding()
     }
 }
