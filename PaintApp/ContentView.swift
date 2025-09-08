@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Line while drawing color, point, linewidth
 struct Line {
     var points = [CGPoint]()
     var color: Color = .red
